@@ -23,3 +23,8 @@ Opitei por criar uma escultura digital utilizando as técnicas aprendidas durant
 ## Vídeo do Projeto
 
 https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-pedro-victor-barbosa/assets/142806552/50ce7e34-442f-486f-83c1-8eb4263c9eba
+
+## Link para ter acesso ao blender
+
+[Downloads.zip](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-pedro-victor-barbosa/files/13636865/Downloads.zip)
+
