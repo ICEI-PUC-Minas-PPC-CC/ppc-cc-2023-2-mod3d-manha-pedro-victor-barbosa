@@ -20,4 +20,6 @@ Opitei por criar uma escultura digital utilizando as técnicas aprendidas durant
 
 ![alienFrente](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-pedro-victor-barbosa/assets/142806552/1d7b2c8c-deda-40d2-9eb5-0ee116b8c348)
 
-# Vídeo do Projeto
+## Vídeo do Projeto
+
+https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-pedro-victor-barbosa/assets/142806552/50ce7e34-442f-486f-83c1-8eb4263c9eba
